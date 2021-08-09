@@ -13,7 +13,6 @@ from datetime import datetime, timedelta
 import datetime as dt
 import plotly.graph_objects as go
 import base64
-from pycaret.nlp import *
 from plotly.graph_objs import *
 import re
 
